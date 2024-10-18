@@ -681,7 +681,7 @@ input:hover:focus::-ms-placeholder, textarea:hover::focus:-ms-placeholder {
 
 header {
   position: relative;
-  font-size: 2.3em;
+  font-size: 1.3em;
   text-align: center;
 }
 
@@ -719,6 +719,7 @@ textarea {
   max-height: 110px;
   padding: 15px;
   margin: 5px 0px 0px 0px;
+   background-color: #e2dedb;
   color: #1f2020;
   font-family: 'Lato', sans-serif;
   font-size: 0.875em;
